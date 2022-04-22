@@ -5,3 +5,4 @@ print("biết dùng rồi à hay đó nha")
 thêm thêm một số thứ nữa
 aklsdhgjlkhlkdfnglnsdrng
 okok ngu nốt lần này nữa thôi từ giờ trở đi không ngáo đá nữa
+đây là lý thuyết
