@@ -10,4 +10,4 @@ khánh muốn mổ mắt nha mọi người
 tao chỉ muốn được sử dụng thôi không có ý gì cả mệt quá đi
 lần này đã thành công chưa đây hả
 không biết nữa bạn ơi
-không biêt là có học được không nữa hay là bỏ giữa chừng
+
