@@ -4,3 +4,4 @@ print("hình như là mình biết dùng github rồi hay sao ý mọi người 
 print("biết dùng rồi à hay đó nha")
 thêm thêm một số thứ nữa
 aklsdhgjlkhlkdfnglnsdrng
+okok ngu nốt lần này nữa thôi từ giờ trở đi không ngáo đá nữa
