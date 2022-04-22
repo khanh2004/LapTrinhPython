@@ -3,3 +3,4 @@ print("mày ngu vãi chưởng ra khánh ơi code cũng không biết code nữa
 print("hình như là mình biết dùng github rồi hay sao ý mọi người ạ")
 print("biết dùng rồi à hay đó nha")
 thêm thêm một số thứ nữa
+okok ngu nốt lần này nữa thôi từ giờ trở đi không ngáo đá nữa
