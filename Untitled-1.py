@@ -8,3 +8,4 @@ okok ngu nốt lần này nữa thôi từ giờ trở đi không ngáo đá n�
 đây là lý thuyết
 khánh muốn mổ mắt nha mọi người
 tao chỉ muốn được sử dụng thôi không có ý gì cả mệt quá đi
+lần này đã thành công chưa đây hả
