@@ -1,16 +1,10 @@
-hoang duy khánh không được đẹp trai lắm đâu nha mọi người
-print("mày ngu vãi chưởng ra khánh ơi code cũng không biết code nữa thì làm ăn được gì bây giờ?")
-print("hình như là mình biết dùng github rồi hay sao ý mọi người ạ")
-print("biết dùng rồi à hay đó nha")
-thêm thêm một số thứ nữa
-aklsdhgjlkhlkdfnglnsdrng
-okok ngu nốt lần này nữa thôi từ giờ trở đi không ngáo đá nữa
-đây là lý thuyết
-khánh muốn mổ mắt nha mọi người
-tao chỉ muốn được sử dụng thôi không có ý gì cả mệt quá đi
-lần này đã thành công chưa đây hả
-không biết nữa bạn ơi
-vậy là cũng ổn rồi thôi đi ngủ đi
-ừa t cũng mệt lắm rồi mai chắc là tao không 
-đi tập thể dục được rồi mệt lắm hôm nay là cũng biết khá là nhiều thứ đó. Mai rồi ta học tiếp nhá hứa sẽ thay đổi bản thân nhiều hơn nữa
-ok bạn
+
+from tkinter import *
+window = Tk()
+window.title("toi la khanh")
+def dung_an_vao_day():
+    dung_an_vao_day = Button(window,text="oh noooo...")
+    dung_an_vao_day.pack()
+mybutton = Button(window, text="đừng ấn vào đây", command=dung_an_vao_day)
+mybutton.pack()
+window.mainloop()
